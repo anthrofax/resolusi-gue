@@ -3,4 +3,4 @@ Anthrofax Resolusi
 - Belajar NPM package
 - Belajar CSS Pre-processor (SASS)
 - Belajar Tailwind
-- Buat banyak project dari apa yang sudah dipelajari
+- Nyelesaian Course Javascript di Udemy
