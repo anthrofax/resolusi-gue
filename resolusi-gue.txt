@@ -1,0 +1,4 @@
+Anthrofax Resolusi
+- Belajar Git & Github
+- Belajar NPM package
+- Belajar CSS Pre-processor (SASS)
