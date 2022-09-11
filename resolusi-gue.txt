@@ -2,3 +2,5 @@ Anthrofax Resolusi
 - Belajar Git & Github
 - Belajar NPM package
 - Belajar CSS Pre-processor (SASS)
+- Belajar Tailwind
+- Buat banyak project dari apa yang sudah dipelajari
